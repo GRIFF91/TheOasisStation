@@ -1,0 +1,40 @@
+.header {
+    background-color: rgb(37, 40, 44);
+    color: papayawhip;
+    padding: 2%;
+}
+
+.a {
+    color: papayawhip;
+    float: right;
+}
+
+.body {
+    font-family: fantasy;
+    background-image: url("../images/backgrounds-blank-blue-953214.jpg");
+}
+h1 {
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.answers {
+    color: rgb(37, 40, 44);
+}
+
+.faqDiv {
+    border-radius: 20px;
+    background-color: rgb(194, 51, 26);
+    margin: 5%;
+    padding: 2%;
+    color: papayawhip;
+    /* text-align: center; */
+}
+
+.footer {
+    background-color: rgb(37, 40, 44);
+    color: papayawhip;
+    padding: 2%;
+    font-size: 16px;
+    text-align: center;
+}
