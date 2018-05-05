@@ -1,11 +1,12 @@
 .header {
     background-color: rgb(37, 40, 44);
-    color: papayawhip;
+    color: white;
     padding: 2%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .a {
-    color: papayawhip;
+    color: white;
 }
 
 .a:hover {
@@ -28,12 +29,12 @@
 .hvr-grow:hover,
 .hvr-grow:focus,
 .hvr-grow:active {
-    transform: scale(1.1);
+    transform: scale(0.9);
 }
 
 .body {
     font-family: fantasy;
-    background-image: url("../images/blue-windows.jpg");
+    background-image: url("../images/classroom.jpg");
     overflow-x: hidden ! important;
     /* Set a specific height */
      height: 500px; 
@@ -60,14 +61,14 @@ h1 {
     background-color: rgb(194, 51, 26);
     margin: 5%;
     padding: 2%;
-    color: papayawhip;
+    color: white;
     opacity: 0.9;
     /* text-align: center; */
 }
 
 .footer {
     background-color: rgb(37, 40, 44);
-    color: papayawhip;
+    color: white;
     padding: 2%;
     font-size: 16px;
     text-align: center;
